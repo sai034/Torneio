@@ -1,0 +1,25 @@
+body {
+	
+background-color:#ABD699;
+}
+h1 {
+	background-color:#6E006C;
+	color: white;
+	font-size: 35px;
+	text-align: center;
+    width:100%;
+}
+
+.container {
+	text-align: center;
+	font-size: 25px;
+	padding: 16px;
+}
+
+.btn {
+	width: 120px;
+	height: 40px;
+	background-color: #251D3A;
+	border: 1px solid black;
+	border-radius:8px;
+}
